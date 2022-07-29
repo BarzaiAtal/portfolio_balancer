@@ -1,5 +1,3 @@
-# Test Change
-
 # Main function
 def main():
     # Get the number of portfolios
